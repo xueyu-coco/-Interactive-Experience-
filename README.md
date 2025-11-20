@@ -1,4 +1,5 @@
-# AI Programming Course - Assignment 03
+#  Interactive Experience
+ 
 
 A comprehensive collection of AI-powered applications featuring interactive chatbots, fortune-telling systems, advanced image generation tools, and immersive audio-visual experiences. This repository contains four major projects developed as part of the AI programming course.
 
